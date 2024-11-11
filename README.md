@@ -120,3 +120,4 @@ display_images(x_test_noisy,x_test_scaled, decodeimg)
 
 
 ## RESULT
+Thus we have successfully developed a convolutional autoencoder for image denoising application.
