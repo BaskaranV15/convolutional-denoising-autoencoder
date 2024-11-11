@@ -109,10 +109,12 @@ display_images(x_test_noisy,x_test_scaled, decodeimg)
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
+![download](https://github.com/user-attachments/assets/0de447a1-0ce4-4427-bf42-4159a8e8fcbc)
 
 
 ### Original vs Noisy Vs Reconstructed Image
 
+![download](https://github.com/user-attachments/assets/62936791-f417-4698-b4d2-b5457bbbb05a)
 
 
 
